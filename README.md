@@ -1,0 +1,1 @@
+Application allows user to imitate playing on the drums instrument. 
